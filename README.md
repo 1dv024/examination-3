@@ -1,13 +1,9 @@
 ## Tjugoett
 
-***
-###OBS! OBS! OBS!
-- Detta är en **obligatorisk** och **examinerande** uppgift som **du ska lösa helt på egen hand**.
-- Du måste göra **regelbundna "commits" och "pushes"** av koden till ditt repositorium för uppgiften för att kursledningen ska kunna följa ditt arbetet med uppgiften.
-- Du ska kunna förklara alla konstruktioner och satser som din lösning av uppgiften innehåller.
-
-***
-
+>###OBS! OBS! OBS!
+- Detta är en __obligatorisk__ och __examinerande__ uppgift som __du ska lösa helt på egen hand__.
+- Du måste göra __regelbundna "commits" och "pushes"__ av koden till ditt repositorium för uppgiften för att kursledningen ska kunna följa ditt arbete med uppgiften.
+- Du ska kunna förklara alla konstruktioner och satser som din lösning av uppgiften innehåller.  
 
 ###Introduktion till uppgiften
 I denna examinationsuppgift ska du simulera kortspelet Tjugoett enligt givna regler.
