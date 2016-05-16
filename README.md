@@ -13,7 +13,7 @@ Du kommer att ha stor frihet välja hur du vill lösa uppgiften; vilka konstrukt
 ###Regler
 
 #### Kort
-En vanlig kortlek om 52 kort används. Esset är värt 1 eller 14 poäng, valfritt vilket, en kung är värd 13, en dam 12, en knekt 11 och övriga kort sin valör.
+En vanlig kortlek om 52 kort används. Esset är värt 1 eller 14 poäng, en kung är värd 13, en dam 12, en knekt 11 och övriga kort sin valör.
 
 #### Spelet idé
 I Tjogoett gäller det att komma till, eller så nära som möjligt, summan 21 på två eller flera kort. 
