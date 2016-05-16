@@ -16,7 +16,7 @@ Du kommer att ha stor frihet välja hur du vill lösa uppgiften; vilka konstrukt
 En vanlig kortlek om 52 kort används. Esset är värt 1 eller 14 poäng, en kung är värd 13, en dam 12, en knekt 11 och övriga kort sin valör.
 
 #### Spelet idé
-I Tjogoett gäller det att komma till, eller så nära som möjligt, summan 21 på två eller flera kort. 
+I Tjugoett gäller det att komma till, eller så nära som möjligt, summan 21 på två eller flera kort. 
 
 #### Exempel
 Given ger alla spelare ett kort var från draghögen. Given tar inte själv något kort. Spelarna spelar nu mot given en i taget i turordning. När det är en spelares tur begär spelaren ett kort av given. Efter spelarens andra kort kan något av följande inträffa:
