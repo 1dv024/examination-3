@@ -1,11 +1,9 @@
-#<i class="fa fa-graduation-cap"></i> 3 - Tjugoett
+# 3 - Tjugoett
 
-<ul class="fa-ul fa-border exercise-info">
-<li><i class="fa-li fa fa-star-o"></i>Examinationsuppgift 3</li>
-</ul>
+- Examinationsuppgift 3
 
 ***
-### <i class="fa fa-warning"></i> OBS! OBS! OBS!
+### OBS! OBS! OBS!
 - Detta är en **obligatorisk** och **examinerande** uppgift som **du ska lösa helt på egen hand**.
 - Du måste göra **regelbundna "commits" och "pushes"** av koden till ditt repo för uppgiften för att kursledningen ska kunna följa ditt arbetet med uppgiften.
 - Du ska kunna förklara alla konstruktioner och satser som din lösning av uppgiften innehåller.
